@@ -1,0 +1,25 @@
+packages/app/e2e/actions.ts
+  3cf72b0480d589ca 818
+packages/app/e2e/settings/settings.spec.ts
+  3cf72b0480d589ca 63-64,66-69,76-79,372-377
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "121d40b004c6fe29809e3543dc22d47edb0488e2",
+  "prompts": {
+    "3cf72b0480d589ca": {
+      "agent_id": {
+        "tool": "codewiz",
+        "id": "da0a9289-a922-4c77-b63a-3d0cbcb26447",
+        "model": "claude-4.6-sonnet-google"
+      },
+      "human_author": "jiwenshang",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 17,
+      "overriden_lines": 0
+    }
+  }
+}
