@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "126a01276ccbdf208e0f4e28abf52f5fd2bee446",
+  "prompts": {
+    "2339f26449b2c587": {
+      "agent_id": {
+        "tool": "codewiz",
+        "id": "a636aed2-f263-468a-ab02-6481a09ee63e",
+        "model": "claude-4.6-sonnet-google"
+      },
+      "human_author": "jiwenshang",
+      "messages": [],
+      "total_additions": 18,
+      "total_deletions": 7,
+      "accepted_lines": 18,
+      "overriden_lines": 0
+    }
+  }
+}
