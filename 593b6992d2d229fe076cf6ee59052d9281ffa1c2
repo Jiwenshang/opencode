@@ -1,0 +1,142 @@
+packages/app/e2e/files/file-viewer.spec.ts
+  ebd567c98d588845 5-15,38-43,46,59,61-63,70,72,85,87
+packages/app/e2e/projects/workspaces.spec.ts
+  ebd567c98d588845 25-28,36-37,78,88-89,112,126,137,141,167,171,228,280-281
+packages/app/e2e/commands/tab-close.spec.ts
+  ebd567c98d588845 5,8-18,32,34,41,44
+  2a988b624f964084 30-31,46
+  e1d0329a16ecab70 33,35-40,42-43,45
+packages/app/e2e/fixtures.ts
+  e39bcba505ac484f 604
+packages/app/e2e/projects/projects-close.spec.ts
+  ebd567c98d588845 6,9
+packages/app/e2e/session/session-model-persistence.spec.ts
+  ebd567c98d588845 177,181,207,213,219,221,228,232-233,255,264-265,268,275-276,281,289-290,293,296,301,305,313-314,321-322,326-327,331-332,336-337,340,343,346,349,353,359
+packages/ui/src/hooks/use-filtered-list.tsx
+  e8d681fa4ff19d52 26-35,38-39
+packages/app/e2e/files/file-open.spec.ts
+  ebd567c98d588845 4,7-17,35,42,45
+  2a988b624f964084 34,36-41,43-44,46-47
+packages/app/e2e/actions.ts
+  e8d681fa4ff19d52 810,812-822
+  e1d0329a16ecab70 167
+  2a988b624f964084 122,130
+  47c0ec706cc0c70c 914-918
+packages/app/e2e/projects/projects-switch.spec.ts
+  ebd567c98d588845 15,18,42,45,59,72,83,89
+packages/app/e2e/projects/workspace-new-session.spec.ts
+  ebd567c98d588845 27,31-32,36-39,50,59,61,65,72,76,80-82
+packages/app/e2e/sidebar/sidebar-popover-actions.spec.ts
+  ebd567c98d588845 51,54,71,78,81,105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "593b6992d2d229fe076cf6ee59052d9281ffa1c2",
+  "prompts": {
+    "2a988b624f964084": {
+      "agent_id": {
+        "tool": "codewiz",
+        "id": "9c62ccd5-c0b5-4491-9507-ed9f0eee6179",
+        "model": "claude-4.5-haiku-google"
+      },
+      "human_author": "jiwenshang",
+      "messages": [],
+      "total_additions": 86,
+      "total_deletions": 51,
+      "accepted_lines": 16,
+      "overriden_lines": 0
+    },
+    "408e46c58dfef2a2": {
+      "agent_id": {
+        "tool": "codewiz",
+        "id": "8f0ea984-deb5-4c89-a637-a356b25d2734",
+        "model": "claude-4.5-haiku-google"
+      },
+      "human_author": "jiwenshang",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "47c0ec706cc0c70c": {
+      "agent_id": {
+        "tool": "codewiz",
+        "id": "cd62fc4e-e3e7-4cf5-942e-92fcb2ba302b",
+        "model": "claude-4.6-sonnet-google"
+      },
+      "human_author": "jiwenshang",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 8,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    },
+    "e094e60ef0b03405": {
+      "agent_id": {
+        "tool": "codewiz",
+        "id": "4e5396fc-0351-4cb8-bdff-0bcfc6517cb2",
+        "model": "claude-4.6-sonnet-google"
+      },
+      "human_author": "jiwenshang",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 5,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "e1d0329a16ecab70": {
+      "agent_id": {
+        "tool": "codewiz",
+        "id": "d7b50d04-ac80-4d2f-940c-1e099071262a",
+        "model": "claude-4.5-haiku-google"
+      },
+      "human_author": "jiwenshang",
+      "messages": [],
+      "total_additions": 15,
+      "total_deletions": 5,
+      "accepted_lines": 11,
+      "overriden_lines": 0
+    },
+    "e39bcba505ac484f": {
+      "agent_id": {
+        "tool": "codewiz",
+        "id": "3ad57e0c-bd0b-4dcc-b62a-037ee909e348",
+        "model": "claude-4.5-haiku-google"
+      },
+      "human_author": "jiwenshang",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "e8d681fa4ff19d52": {
+      "agent_id": {
+        "tool": "codewiz",
+        "id": "23288658-3713-4c84-bf73-bc68508f02a7",
+        "model": "claude-4.6-sonnet-google"
+      },
+      "human_author": "jiwenshang",
+      "messages": [],
+      "total_additions": 30,
+      "total_deletions": 21,
+      "accepted_lines": 24,
+      "overriden_lines": 0
+    },
+    "ebd567c98d588845": {
+      "agent_id": {
+        "tool": "codewiz",
+        "id": "71c9231a-b04d-47c1-beea-496094286163",
+        "model": "claude-4.6-sonnet-google"
+      },
+      "human_author": "jiwenshang",
+      "messages": [],
+      "total_additions": 149,
+      "total_deletions": 184,
+      "accepted_lines": 146,
+      "overriden_lines": 0
+    }
+  }
+}
